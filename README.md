@@ -1,6 +1,3 @@
-# evandrojunior-portfolio
-Portfólio pessoal de Evandro Junior, apresentando projetos, competências técnicas e minha trajetória em desenvolvimento de software.
-
 # Portfólio — Evandro Junior
 
 Landing page pessoal estática feita com HTML, CSS e JavaScript puro. Não exige Node.js, compilação, framework ou instalação de dependências.
